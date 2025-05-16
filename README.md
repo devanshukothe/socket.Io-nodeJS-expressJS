@@ -46,12 +46,14 @@ socketio-chat-app/
 ├── public/
 │ └── index.html # Static HTML/JS client
 └── README.md # You're here
-
+---
 
 ▶️ Run the App
 node index.js
 The server will start on:
 http://localhost:3000
+
+---
 
 💡 Future Enhancements
 Here are some cool features you can build next:
@@ -70,18 +72,24 @@ Here are some cool features you can build next:
 
  -Responsive mobile UI
 
+---
+
  👨‍💻 Author
 Devanshu
 Made with ❤️ using JavaScript and Socket.IO
-
 Contributions, issues, and feature requests are welcome!
 
 📄 License
 This project is licensed under the MIT License.
 
+---
+
 🌍 Connect
-LinkedIn
 
-Twitter
+🌐 Portfolio
 
-Portfolio
+🐙 GitHub
+
+💼 LinkedIn
+
+
