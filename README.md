@@ -13,6 +13,8 @@
 
 ![Chat App Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h3cWVmYmZjbWhmYWtzbHNsa2NlZ2Ztb3d6ejRhcGVpNm41NnF3MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BZr59eYvMPQSg0yz0a/giphy.gif)
 
+https://drive.google.com/file/d/1H4-L0uRIuhnn6kHnlIrnDV1A4R1tmSWz/view?usp=sharing
+
 > 🔁 Try opening in **two browser tabs** to test the real-time messaging!
 
 ---
